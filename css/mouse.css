@@ -1,15 +1,1 @@
-body {
-    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur),
-        default;
-}
-a,
-img {
-    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur),
-        default;
-}
-
-
-作者: 花猪
-链接: https://cnhuazhu.gitee.io/2021/07/05/Hexo%E9%AD%94%E6%94%B9/Hexo%E9%BC%A0%E6%A0%87%E6%A0%B7%E5%BC%8F%E4%BF%AE%E6%94%B9/
-来源: 花猪のBlog
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+body{cursor:url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur),default}a,img{cursor:url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur),default}
